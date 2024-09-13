@@ -1,5 +1,8 @@
 node_modules
 
+# pocketbase
+/server/pb_data
+
 # Output
 .output
 .vercel

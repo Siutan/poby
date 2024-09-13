@@ -1,0 +1,24 @@
+## Poby
+
+### Poby is a secrets manager for individuals and teams.
+Built with SvelteKit and Pocketbase, currently in development.
+
+## Quickstart
+
+```bash
+# install dependencies
+bun install
+
+# configure your environment
+cd ./frontend
+cp .env.example .env
+
+# start the development servers
+
+# frontend
+cd ./frontend
+bun dev
+
+# backend
+cd ./server
+go run main.go serve
